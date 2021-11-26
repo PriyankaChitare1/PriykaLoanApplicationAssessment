@@ -1,0 +1,22 @@
+.card-header {
+    font-size: 18px;
+  }
+  .mat-spinner {
+    position: relative;
+    margin-left: 50%;
+    margin-right: 50%;
+  }
+
+  table th {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: #fff;
+}
+a {
+
+font-size:12px !important;
+  color:white !important;
+}
+  
